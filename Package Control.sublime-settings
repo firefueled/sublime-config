@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Git",
+		"Neon Color Scheme",
+		"Package Control",
+		"Ruby Debugger"
+	]
+}
