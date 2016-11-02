@@ -1,0 +1,9 @@
+{
+
+  // Show scope in status bar
+  "show_statusbar": true,
+
+  // Show scopes in console
+  "console_log": false,
+
+}

@@ -5,10 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"auto-save",
 		"Better CoffeeScript",
+		"BeyondCompare",
+		"ColorSchemeEditor",
+		"Compare Side-By-Side",
+		"Diffy",
+		"EditorConfig",
+		"Emmet",
+		"EncodingHelper",
 		"Git",
+		"Handlebars",
 		"Neon Color Scheme",
 		"Package Control",
-		"Ruby Debugger"
+		"PackageResourceViewer",
+		"Sass",
+		"ScopeAlways",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SyncedSidebarBg",
+		"TodoReview"
 	]
 }

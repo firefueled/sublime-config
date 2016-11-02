@@ -1,0 +1,15 @@
+{
+   "scope": "source.ruby",
+   "completions":
+   [
+      { "trigger": "fb\tfind_by", "contents": "find_by(${1:key}: ${2:val})" },
+      { "trigger": "wh\twhere", "contents": "where(${1:key}: ${2:val})" },
+   ],
+
+   "scope": "text.html.ruby",
+   "completions":
+   [
+      { "trigger": "fb\tfind_by", "contents": "find_by(${1:key}: ${2:val})" },
+      { "trigger": "wh\twhere", "contents": "where(${1:key}: ${2:val})" },
+   ]
+}

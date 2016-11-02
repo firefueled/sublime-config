@@ -1,10 +1,20 @@
 {
 	"color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		140,
+		90
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "false"
 }
