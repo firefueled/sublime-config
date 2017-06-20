@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+then(${1:val} => {
+  ${2}
+})
+]]></content>
+    <tabTrigger>then</tabTrigger>
+    <scope>source.js</scope>
+    <description>async function then callback</description>
+</snippet>
