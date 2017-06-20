@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"auto-save",
+		"Babel",
 		"Better CoffeeScript",
 		"BetterSnippetManager",
 		"BeyondCompare",
@@ -14,6 +15,8 @@
 		"Diffy",
 		"EditorConfig",
 		"Emmet",
+		"ESLint",
+		"ExpandRegion",
 		"Git",
 		"Handlebars",
 		"Neon Color Scheme",
@@ -23,7 +26,6 @@
 		"ScopeAlways",
 		"SideBarEnhancements",
 		"SublimeREPL",
-		"SyncedSideBar",
 		"SyncedSidebarBg",
 		"TodoReview"
 	]

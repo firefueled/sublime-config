@@ -5,4 +5,11 @@
   { "keys": ["ctrl+alt+d"], "command": "find_under_expand_skip" },
   { "keys": ["ctrl+,"], "command": "focus_side_bar" },
   { "keys": ["ctrl+."], "command": "focus_group", "args": { "group": 0 } },
+  { "keys": ["ctrl+alt+d"], "command": "expand_region" },
+  {
+    "keys": ["ctrl+shift+alt+d"],
+    "command": "expand_region",
+    "args": {"undo": true},
+    "context": [{ "key": "expand_region_soft_undo" }]
+  },
 ]
