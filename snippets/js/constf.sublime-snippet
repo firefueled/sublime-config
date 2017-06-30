@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+const ${1:name} = (${2:params}) => {
+  ${3}
+}
+]]></content>
+    <tabTrigger>constf</tabTrigger>
+    <scope>source.js</scope>
+    <description>const arrow function</description>
+</snippet>

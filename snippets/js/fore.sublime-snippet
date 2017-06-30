@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+forEach(${1:item} => {
+  ${2}
+})
+]]></content>
+    <tabTrigger>fore</tabTrigger>
+    <scope>source.js</scope>
+    <description>for each arrow function</description>
+</snippet>

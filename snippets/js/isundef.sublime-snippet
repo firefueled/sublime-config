@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+if (${1} == undefined) {${2}}
+]]></content>
+    <tabTrigger>isundef</tabTrigger>
+    <scope>source.js</scope>
+    <description>if is undefined</description>
+</snippet>
